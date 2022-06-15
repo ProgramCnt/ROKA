@@ -1,0 +1,8 @@
+*.class
+bin/
+build/
+java/build/**
+target/
+.project
+.classpath
+.settings/
